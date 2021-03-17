@@ -24,7 +24,7 @@ Kynntu þér hvernig 7-Segment virkar með því að lesa [þessa grein](https:/
 
 Kynntu þér hvernig 7-Segment með fjórum tölustöfum virkar með því að lesa seinni hluta [þessarar greinar](https://www.circuitbasics.com/arduino-7-segment-display-tutorial/) (kaflinn *4 DIGIT 7-SEGMENT DISPLAYS*)
 
-1. Settu upp fyrri rásina (sem birtir 4999) ekki á að setja upp seinni rásina.
+1. Settu upp fyrri rásina (sem birtir 4999).  Það á ekki á að setja upp seinni rásina (DISPLAYING SENSOR DATA).
 1. Bættu inn í ```loop``` fallið einni ```delay``` skipun. Prófaðu að hafa ```delay``` í eina sekúndu (1000 ms) og svaraðu svo eftirfarandi spurningum.
    1. Hvað gerist?
    1. Af hverju gerist það?
