@@ -13,7 +13,7 @@ Skoðaðu [þessa grein](https://lastminuteengineers.com/dht11-module-arduino-tu
 
 #### 7-Segment ein tala (3%)
 
-Kynntu þér hvernig 7-Segment virkar með því að lesa [þessa grein](https://lastminuteengineers.com/seven-segment-arduino-tutorial/).
+Kynntu þér hvernig 7-Segment virkar með því að lesa [þessa grein](https://lastminuteengineers.com/seven-segment-arduino-tutorial/). 
 
 1. Hvort er þitt 7-Segment Display *common anode* eða *common cathode* og hver er munurinn á þessu tvennu?
 1. Í greininni er sýnd útfærsla á teljara. Settu teljarann upp á brauðbretti og settu kóðann á Arduino tölvuna þína.
@@ -22,10 +22,10 @@ Kynntu þér hvernig 7-Segment virkar með því að lesa [þessa grein](https:/
 
 #### 7-Segment fjórar tölur (3%)
 
-Kynntu þér hvernig 7-Segment með fjórum tölustöfum virkar með því að lesa seinni hluta [þessarar greinar](https://www.circuitbasics.com/arduino-7-segment-display-tutorial/) (kaflinn *4 DIGIT 7-SEGMENT DISPLAYS*)
+Kynntu þér hvernig 7-Segment með fjórum tölustöfum virkar með því að lesa seinni hluta [þessarar greinar](https://www.circuitbasics.com/arduino-7-segment-display-tutorial/) (kaflinn *4 DIGIT 7-SEGMENT DISPLAYS*). Skoðaðu einnig stillingar og aðgerðir í [SevSeg safninu](https://github.com/DeanIsMe/SevSeg)
 
-1. Settu upp fyrri rásina (sem birtir 4999).  Það á ekki á að setja upp seinni rásina (DISPLAYING SENSOR DATA).
-1. Bættu inn í ```loop``` fallið einni ```delay``` skipun. Prófaðu að hafa ```delay``` í eina sekúndu (1000 ms) og svaraðu svo eftirfarandi spurningum.
+1. Settu upp fyrri rásina (sem birtir 4999), prófaðu að birta 1234.  Það á ekki á að setja upp seinni rásina (DISPLAYING SENSOR DATA).
+1. Bættu inn í ```loop``` fallið einnig ```delay``` skipun. Prófaðu að hafa ```delay``` í eina sekúndu (1000 ms) og svaraðu svo eftirfarandi spurningum.
    1. Hvað gerist?
    1. Af hverju gerist það?
 
