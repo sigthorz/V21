@@ -17,9 +17,7 @@
 #### 2. HC-SR04 Ultrasonic Sensor (4%)
 1. Kynntu þér hvernig HC-SR04 Ultrasonic Sensor virkar með því að lesa [þessa grein](https://lastminuteengineers.com/arduino-sr04-ultrasonic-sensor-tutorial/). 
     1. Hversu nákvæmar eru mælingarnar með Ultrasonic Sensor?
-1. Skoðaðu eftirfarandi [kóðasýnidæmi](https://github.com/VESM2VT/Efni/blob/main/Kodi/sonic.ino) og settu upp verklega og bættu við eftirfarandi:
-    1. Ef fjarlægðin er meiri en 400 þá prentast á Serial skjáinn "Out of range". 
-    1. Notaðu micros() í staðinn fyrir delayMicroseconds().
+1. Skoðaðu eftirfarandi [kóðasýnidæmi](https://github.com/VESM2VT/Efni/blob/main/Kodi/sonic.ino) og settu upp verklega, bættu við kóðann að ef fjarlægðin er meiri en 400 þá prentast á Serial skjáinn "Out of range". 
 
 ---
 
