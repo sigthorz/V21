@@ -19,7 +19,7 @@
     1. Hversu nákvæmar eru mælingarnar með Ultrasonic Sensor?
 1. Skoðaðu eftirfarandi [kóðasýnidæmi](https://github.com/VESM2VT/Efni/blob/main/Kodi/sonic.ino) og settu upp verklega og bættu við eftirfarandi:
     1. Ef fjarlægðin er meiri en 400 þá prentast á Serial skjáinn "Out of range". 
-    1. Notaðu millis() í staðinn fyrir delay().
+    1. Notaðu micros() í staðinn fyrir delayMicroseconds().
 
 ---
 
